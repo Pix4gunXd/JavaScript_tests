@@ -1,3 +1,5 @@
+//Trying to separate words using the slice() method
+
 var str = "Write some words here and test the code";
 
 var done = false;
